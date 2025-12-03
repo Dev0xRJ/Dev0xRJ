@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Sou Raimundo Júnior 👋</h1>
+  <h1>Olá! Sou Raimundo Júnior </h1>
   <p>
     🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
     🚀 Foco em Full Stack, Python e Cloud Computing (AWS)<br>
