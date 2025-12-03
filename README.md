@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá! Sou Raimundo Júnior 👋</h2>
+  <h1>Olá! Sou Raimundo Júnior 👋</h1>
   <p>
     🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
     🚀 Foco em Full Stack, Python e Cloud Computing (AWS)<br>
@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h2 align="left">💻 Tech Stack:</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <br><br>
 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
